@@ -1,3 +1,5 @@
+![js-ts-error-handling](https://github.com/user-attachments/assets/5779b0a0-4df8-45a6-8ce2-8b113799da75)
+
 ### **JavaScript/TypeScript Error Handling: All You Need to Know**
 
 Error handling is a fundamental aspect of any programming language. It ensures that your code runs smoothly, handles unforeseen errors gracefully, and provides informative feedback to users or developers. In JavaScript and TypeScript, error handling is done primarily using `try...catch` blocks, and TypeScript offers enhanced safety by introducing static typing. Let's dive deep into how error handling works in these languages and how you can use it effectively in your code.
